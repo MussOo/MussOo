@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mussoo&label=Profile%20views&color=0e75b6&style=flat" alt="mussoo" /> </p>
 
-- 🔭 I currently work for the association **<a href="https://vivremieuxsansgluten-ardennes.fr/accueil">VivreSansGuten - Ardennes</a>** (Developer Full Stack)
+- 🔭 I currently work for the association **<a href="https://vivremieuxsansgluten-ardennes.fr">VivreSansGuten - Ardennes</a>** (Developer Full Stack)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
